@@ -1,12 +1,27 @@
-# React + Vite
+# React Form with Validations
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este es un proyecto en **React** que demuestra cómo manejar formularios usando **react-hook-form**, incluyendo:
 
-Currently, two official plugins are available:
+- Validaciones sincrónicas y asincrónicas
+- Validaciones personalizadas (por ejemplo, bloquear ciertos nombres de usuario)
+- Comparación de contraseñas (password / confirm password)
+- Manejo de errores con `formState.errors`
+- Reset del formulario tras un submit exitoso
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Tecnologías usadas
 
-## Expanding the ESLint configuration
+- [React](https://react.dev/)
+- [React Hook Form](https://react-hook-form.com/)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+## 📦 Instalación
+
+Clona el repositorio e instala las dependencias:
+
+```bash
+git clone https://github.com/tuusuario/nombre-del-repo.git
+cd nombre-del-repo
+npm install
+npm run dev
+
+<img width="668" height="775" alt="Captura de pantalla 2025-09-12 a la(s) 10 37 23 p m" src="https://github.com/user-attachments/assets/a46f0b92-bed2-474c-8de0-ea1805d20f66" />
