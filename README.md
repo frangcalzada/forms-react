@@ -13,6 +13,7 @@ Este es un proyecto en **React** que demuestra cómo manejar formularios usando 
 - [React](https://react.dev/)
 - [React Hook Form](https://react-hook-form.com/)
 
+<img width="668" height="775" alt="Captura de pantalla 2025-09-12 a la(s) 10 37 23 p m" src="https://github.com/user-attachments/assets/a46f0b92-bed2-474c-8de0-ea1805d20f66" />
 
 ## 📦 Instalación
 
@@ -24,4 +25,4 @@ cd nombre-del-repo
 npm install
 npm run dev
 
-<img width="668" height="775" alt="Captura de pantalla 2025-09-12 a la(s) 10 37 23 p m" src="https://github.com/user-attachments/assets/a46f0b92-bed2-474c-8de0-ea1805d20f66" />
+
